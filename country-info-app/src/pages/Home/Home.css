@@ -1,0 +1,14 @@
+#root {
+  max-width: 2280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button {
+  margin: 2px;
+}
+
+.read-the-docs {
+  color: #888;
+}
